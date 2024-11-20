@@ -68,7 +68,9 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 <H3>Output:</H3>
-![NN EX 06 img 1](https://github.com/user-attachments/assets/6db90010-36c9-42f1-b92e-9939b2e4e206)
+
+![NN EX 06 img 1](https://github.com/user-attachments/assets/ad8a212f-f2c0-4c17-9f16-3a5b755bb850)
+
 
 ![NN EX 06 IMG 2](https://github.com/user-attachments/assets/3c0091b7-0706-4e5c-9484-5718e0511e2e)
 
